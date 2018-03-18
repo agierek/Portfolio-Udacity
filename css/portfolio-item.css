@@ -1,0 +1,52 @@
+body {
+  padding-top: 20px;
+}
+
+.name {
+  text-transform: uppercase;
+  text-align: right;
+  width: 100%;
+  font-size: 70px;
+  color: #03032C;
+}
+.desc {
+  text-transform: uppercase;
+  text-align: right;
+  font-weight: lighter;
+  font-size: 25px;
+}
+
+.top {
+  border-bottom: 5px solid #03032C;
+  margin-bottom: 20px;
+}
+
+.main-img {
+  width: 100%;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+}
+
+.fW {
+  color: #34d7b8;
+  font-size: 40px;
+}
+
+.work-title {
+  color: #fb9c58;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 20px;
+}
+
+.work-link {
+  text-align: center;
+  color: black;
+}
+
+.img-fluid {
+  height: 250px;
+}
